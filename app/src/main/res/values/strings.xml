@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">生物辨識示範</string>
+    <string name="useBiometric">使用生物辨識</string>
+</resources>
